@@ -16,3 +16,4 @@ Prompts that have been tested before using a set of interaction rules are:
 - What do you recommend if I'm vegan? 
 
 Using Gemini Pro 1.5 002, we use code to make a chatbot with a .csv file and the original code can be found [here](https://milumon.medium.com/creating-custom-chatbots-using-csv-data-with-python-and-openai-api-0486d8992b24).
+The data itself was scraped from the Seafood Watch website using Selenium.
