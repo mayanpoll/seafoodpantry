@@ -17,3 +17,6 @@ Prompts that have been tested before using a set of interaction rules are:
 
 Using Gemini Pro 1.5 002, we use code to make a chatbot with a .csv file and the original code can be found [here](https://milumon.medium.com/creating-custom-chatbots-using-csv-data-with-python-and-openai-api-0486d8992b24).
 The data itself was scraped from the Seafood Watch website using Selenium.
+
+
+Download the .csv file and create a key for your account to use Gemini. Then run the code and ask your questions. The code also plots a chart showing the different types of seafood, their locations and the recommendations, as well as an interactive map with these species, recommendations and exact locations.
