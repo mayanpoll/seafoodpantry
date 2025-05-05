@@ -22,3 +22,5 @@ The data itself was scraped from the Seafood Watch website using Selenium.
 Download the .csv file and create a key for your account to use Gemini. Then run the code and ask your questions. The code also plots a chart showing the different types of seafood, their locations and the recommendations, as well as an interactive map with these species, recommendations and exact locations.
 
 You may also download the .html file in the Github repository.
+
+Try out the chatbot here: https://seafoodpantry-wqf7cy5enrfgg6hwync8cu.streamlit.app/
